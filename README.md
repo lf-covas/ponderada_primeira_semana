@@ -21,4 +21,10 @@ Obs: Utilize o comando git status para verificar que o arquivo README.md ainda n
 
 Obs: E sempre importante descrevermos para que todos possam entender o que foi modificado
 
+**6 - Após realizar alguma mudança no github utilize o comando git fetch para verificar o que foi alterado no seu repositorio remoto**
+
+**7 - Para verificar o status dessa mundaça utilize novamente o git status**
+
+**8 - Para verificar todas as mudanças que foram feitas necesse repositorio utilize o comando git log main**
+ 
 
