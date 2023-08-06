@@ -72,8 +72,4 @@ Obs: Altere o readme.md para verificarmos as mudanças utilizando o comando git 
 **2 - Como o arquivo foi modificado, iremos utilizar o comando git add README.md para adiciona-lo a linha de preparo**
 
 
-
-
-
  
-
