@@ -43,6 +43,11 @@ Obs: Utilize o comando git status para verificar se tudo ocorreu da maneira corr
 
 **14 - Agora iremos utilizar o comando git push para subir todas as mudanças feitas em nosso repositorio local para o nosso repositorio remoto no github**
 
+## Agora iremos aprender a como trabalhar com ramificações dentro do nosso projeto no github
+
+No GitHub, acesse seu repositório e clique no botão branch e depois criar nova branch.
+
+
 
  
 
