@@ -43,7 +43,15 @@ Obs: Utilize o comando git status para verificar se tudo ocorreu da maneira corr
 
 **14 - Agora iremos utilizar o comando git push para subir todas as mudanças feitas em nosso repositorio local para o nosso repositorio remoto no github**
 
-TESTANDO
+## Agora iremos aprender a como trabalhar com ramificações dentro do nosso projeto no github
+
+No GitHub, acesse seu repositório e clique no botão branch e depois criar nova branch.
+
+Agora estamos trabalhando em uma ramificação do projeto principal (main) e podemos editar o arquivo readme.md que foi copiado e lá.
+
+Após editarmos podemos ver as mudanças realizadas nesse arquivo clicando em preview.
+
+Se você estiver satisfeito com a mudança, adicione um comentário que explique o que você fez, e clique em Confirmar alterações.
 
 
  
