@@ -72,3 +72,16 @@ Obs: Altere o readme.md para verificarmos as mudanças utilizando o comando git 
 **2 - Como o arquivo foi modificado, iremos utilizar o comando git add README.md para adiciona-lo a linha de preparo e em seguida verificar o seu status**
 
 **3 - Agora iremos preparar as mudanças feitar para envia-las para nosso repositorio remoto utilizando novamente o comando git commit e enviando para o repositorio remoto utilizando o comando git push conforme imagem abaixo:**
+
+Vá para o GitHub e confirme se o repositório tem uma nova branch
+
+**4 - Utilize a opção compare & pull request para verificar se está de acordo com as mudanças e junta-las**
+
+Se as alterações parecerem boas, você pode ir em frente, criando um pull request
+Uma solicitação pull é como você propõe alterações. Você pode pedir a alguns que revisem o seu altera ou puxa sua contribuição e mescla-a em seu ramo.
+
+Como este é o seu próprio repositório, você mesmo pode solicitar o pull merge
+
+# Conclusão
+
+Com isso podemos perceber que o uso de branches e Git em projetos de software oferece várias vantagens, incluindo o isolamento de alterações para experimentação segura e desenvolvimento independente de recursos, facilitando a colaboração entre equipes ao permitir a fusão eficaz de mudanças separadas. O Git, como sistema de controle de versão, mantém um histórico detalhado de alterações, permitindo a reversão fácil para estados anteriores de código e a identificação de origens de bugs. Além disso, permite um gerenciamento eficaz de lançamentos de recursos e promove a revisão de código para melhorar a qualidade do software.
