@@ -22,7 +22,7 @@ Obs: Utilize o comando ls para verificar se esse arquivo foi criado da forma cor
 
 **3 - Após a criação da pasta e do arquivo README.md utilize o comando git init para criar o repositorio local**
 
-![imagem](imagens/passo3)
+![imagem](imagens/passo3.png)
 
 Obs: Utilize o comando git status para verificar que o arquivo README.md ainda não está preparado para ser commitado como mostra na figura a cima
 
