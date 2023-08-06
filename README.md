@@ -37,7 +37,7 @@ Obs: E sempre importante descrevermos para que todos possam entender o que foi m
 
 É assim que você mantém seu Git local atualizado a partir de um repositório remoto ;)
 
-**13 - 
+**13 - Agora faça uma alteração no seu README.md local e utilize o comando git commit -m "titulo_do_que_foi_modificado" para preparar as mudanças para subir ao github remoto**
 
 
  
