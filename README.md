@@ -43,6 +43,8 @@ Obs: Utilize o comando git status para verificar se tudo ocorreu da maneira corr
 
 **14 - Agora iremos utilizar o comando git push para subir todas as mudanças feitas em nosso repositorio local para o nosso repositorio remoto no github**
 
+TESTANDO
+
 
  
 
