@@ -39,6 +39,10 @@ Obs: E sempre importante descrevermos para que todos possam entender o que foi m
 
 **13 - Agora faça uma alteração no seu README.md local e utilize o comando git commit -m "titulo_do_que_foi_modificado" para preparar as mudanças para subir ao github remoto**
 
+Obs: Utilize o comando git status para verificar se tudo ocorreu da maneira correta
+
+**14 - Agora iremos utilizar o comando git push para subir todas as mudanças feitas em nosso repositorio local para o nosso repositorio remoto no github**
+
 
  
 
