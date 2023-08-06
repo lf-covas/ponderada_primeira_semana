@@ -72,3 +72,4 @@ Obs: Altere o readme.md para verificarmos as mudanças utilizando o comando git 
 **2 - Como o arquivo foi modificado, iremos utilizar o comando git add README.md para adiciona-lo a linha de preparo e em seguida verificar o seu status**
 
 **3 - Agora iremos preparar as mudanças feitar para envia-las para nosso repositorio remoto utilizando novamente o comando git commit e enviando para o repositorio remoto utilizando o comando git push conforme imagem abaixo:**
+
