@@ -65,9 +65,6 @@ Obs: O asterisco (*) representa a branch atual e podemos utilizar branch -r apen
 
 ## Agora iremos aprender a como enviar uma nova branch criada em nosso repositorio local para o nosso repositorio remoto
 
-**1 - 
-
-
+**1 - Utilie o comando git checkout -b *nome da nova branch* para criar uma nova branch em nosso repositorio local**
 
  
-
