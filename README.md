@@ -25,6 +25,17 @@ Obs: E sempre importante descrevermos para que todos possam entender o que foi m
 
 **7 - Para verificar o status dessa mundaça utilize novamente o git status**
 
-**8 - Para verificar todas as mudanças que foram feitas necesse repositorio utilize o comando git log main**
+**8 - Para verificar todas as mudanças que foram feitas necesse repositorio utilize o comando git log oring/main**
+
+**9 - Para verificar a mudança entre o nosso repositorio local e nosso repositorio remoto utilize o comando git diff origin/main como mostra a imagem a baixo:**
+
+**10 - Após verificar as mudanças feitas podemos utilizar o comando merge para unifica-las e deixando nosso repositorio local atualizado conforme o nosso remoto**
+
+**11 - Utilizamos novamente o comando git status para verificar se tudo ocorreu da forma correta e nosso repositorio está atualizado**
+
+**12 - 
+
+
+
  
 
