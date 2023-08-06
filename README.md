@@ -33,8 +33,11 @@ Obs: E sempre importante descrevermos para que todos possam entender o que foi m
 
 **11 - Utilizamos novamente o comando git status para verificar se tudo ocorreu da forma correta e nosso repositorio está atualizado**
 
-**12 - 
+**12 - Para atualizar nosso repositorio local de uma forma mais facil e simples, também podemos utilizar o git pull**
 
+É assim que você mantém seu Git local atualizado a partir de um repositório remoto ;)
+
+**13 - 
 
 
  
