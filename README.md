@@ -12,7 +12,7 @@ Neste tutorial também iremos aprender a como criar um repositorio local em noss
 
 **1 - Crie uma nova pasta no seu computador utilizando a linha de comando conforme abaixo**
 
-![imagem](ponderada_primeira_semana/passo1.png)
+![imagem](ponderada_primeira_semana/imagens/passo1.png)
 
 **2 - Adicione um arquivo README.md em sua pasta utilizando a linha de comando conforme abaixo**
 
