@@ -94,7 +94,9 @@ Observação: Certifique-se de ter seu par de chaves (chave privada) disponível
 **Passo 13 - Instruções para Conexão SSH:**
 Após clicar no botão "Conectar", você será direcionado para um guia passo a passo que o ajudará a estabelecer uma conexão SSH com a máquina recém-criada. Siga as instruções abaixo:
 
-![imagem](imagens/AWS-12.png)
+![imagem](imagens/AWS-13.png)
 
-*Abra o promp de comando na pasta em que o arquivo das chaves foi arquivado*
+*Abra o promp de comando na pasta em que o arquivo das chaves foi arquivado e coloque o link mostrado com exeplo na imagem anterior*
+
+![imagem](imagens/AWS-14.png)
 
