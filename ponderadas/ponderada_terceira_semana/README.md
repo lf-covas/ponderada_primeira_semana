@@ -100,3 +100,6 @@ Após clicar no botão "Conectar", você será direcionado para um guia passo a 
 
 ![imagem](imagens/AWS-14.png)
 
+### Concluindo
+Após completar este tutorial, você terá efetivamente estabelecido uma conexão segura com sua máquina virtual na nuvem da AWS usando chaves de acesso. Isso implica que você está agora habilitado para realizar uma variedade de tarefas, tais como gerenciar a instância remotamente, instalar e configurar softwares, executar atualizações e desempenhar atividades administrativas, entre outras possibilidades. 
+
